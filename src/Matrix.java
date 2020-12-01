@@ -40,7 +40,7 @@ public class Matrix {
             }
         }*/
 
-        int n = 4;
+        int n = 15;
 
         System.out.println("n = " + n + " Matrix");
         System.out.println("----------");
